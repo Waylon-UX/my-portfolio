@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { 
-  Zap, Globe, Terminal, ArrowDown, ArrowRight, Figma, Cpu, Eye, Box, 
+  Zap, Globe, Terminal, ArrowDown, ArrowRight, Cpu, Eye, Box, 
   Unlock, History, GraduationCap, Mail, Phone, FolderOpen, ArrowUp 
 } from 'lucide-react';
 
